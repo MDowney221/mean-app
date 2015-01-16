@@ -1,0 +1,9 @@
+{
+  "name": "mean-app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.11.0",
+    "mongoose": "^3.8.21",
+    "passport": "^0.2.1"
+  }
+}
